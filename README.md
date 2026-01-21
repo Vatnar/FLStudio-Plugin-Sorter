@@ -60,5 +60,30 @@ Run the `Organize-PluginDatabase.ps1` script. Provide the path to your edited ma
 * **Redundancy is Speed:** Use the semicolon `;` to put your primary tools in multiple folders (e.g., a "Favorites" folder AND a "Functional" folder).
 * **Backup:** Before your first run, back up your `Plugin database` folder.
 
+---
+
+## 🤝 Contributing & Customization
+
+### Improving the Ruleset
+The guessing logic is defined in the `Get-GuessedPath` function inside `Generate-PluginCSV.ps1`. 
+
+* **Adding Vendors:** To add a new manufacturer, locate the `$vendors` hashtable and add a regex pattern paired with the Vendor name.
+    ```powershell
+    "fabfilter|pro-q|saturn" = "FabFilter"
+    "newvendor|vstname"      = "New Vendor Name"
+    ```
+* **Refining Categories:** If certain plugins are being misidentified, you can adjust the `-match` patterns in the **Functional Logic** blocks. We use standard Regex; for example, `comp|limit|gate` captures any plugin with those strings in the name.
+
+
+### Choosing Your Own Structure
+If you want the script to sort plugins differently by default (e.g., placing all Native plugins in a `Stock` folder instead of `Image-Line`), you can modify the path strings directly in the script:
+* Change `"$branch\Vendors\$($vendors[$pattern])"` to your preferred hierarchy.
+* Modify the `$branch` detection if you want to separate "VFX" or "Controllers" into their own top-level folders.
+
+### 📬 Pull Requests
+Found a robust regex for a vendor or useful category then please submit a PR :(
+
+---
+
 ## License
 MIT. Use at your own risk. This script modifies your FL Studio preset files. Always maintain backups of your User Data Folder.
