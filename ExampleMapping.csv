@@ -1,0 +1,320 @@
+Name,TargetPaths
+3x Osc.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+Autogun.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+BassDrum.fst,Generators\Drums;Generators\Vendors\Image-Line
+BeepMap.fst,Generators\Miscellaneous
+BooBass.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Control Surface.fst,Effects\Utilities\Routing
+Cymatics Origin.fst,Effects\Distortion\Saturation
+Dashboard.fst,Effects\Utilities\Tools
+DirectWave.fst,Generators\Samplers;Generators\Vendors\Image-Line
+Distructor.fst,Effects\Distortion\Aggressive;Effects\Vendors\Image-Line
+Drumaxx.fst,Generators\Drums;Generators\Vendors\Image-Line
+Drumpad.fst,Generators\Drums;Generators\Vendors\Image-Line
+DSK Saxophones.fst,Generators\Samplers;Generators\Vendors\DSK Music
+Edison.fst,Effects\Utilities\Analyzers;Effects\Vendors\Image-Line
+Effector.fst,Effects\Miscellaneous
+Emphasis.fst,Effects\Distortion\Saturation
+Emphasizer.fst,Effects\Distortion\Aggressive
+EQUO.fst,Effects\EQ\Character;Effects\Vendors\Image-Line
+FL Keys.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+FL Slayer.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+FL Studio Mobile Rack FX.fst,Effects\Miscellaneous
+FL Studio Mobile Rack.fst,Generators\Miscellaneous
+FL Studio Mobile.fst,Generators\Miscellaneous
+FL Studio VSTi (multi).fst,Generators\Miscellaneous
+FL Studio VSTi.fst,Generators\Miscellaneous
+FLEX.fst,Generators\Synths\Sample-Based;Generators\Vendors\Image-Line
+FPC.fst,Generators\Drums;Generators\Vendors\Image-Line
+Frequency Shifter.fst,Effects\Modulation\Movement;Effects\Vendors\Image-Line
+Frequency Splitter.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruit Kick.fst,Generators\Drums;Generators\Vendors\Image-Line
+Fruity 7 Band EQ.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruity Balance.fst,Effects\Utilities\Routing;Effects\Vendors\Image-Line
+Fruity Bass Boost.fst,Effects\EQ\Character;Effects\Vendors\Image-Line
+Fruity Big Clock.fst,Effects\Utilities\Analyzers
+Fruity Blood Overdrive.fst,Effects\Distortion\Aggressive;Effects\Vendors\Image-Line
+Fruity Center.fst,Effects\Utilities\Routing
+Fruity Chorus.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+Fruity Compressor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\Image-Line
+Fruity Convolver.fst,Effects\Spatial\Reverb;Effects\Vendors\Image-Line
+Fruity Dance.fst,Generators\Miscellaneous
+Fruity dB Meter.fst,Effects\Mastering\Metering;Effects\Utilities\Analyzers
+Fruity Delay 2.fst,Effects\Spatial\Delay;Effects\Vendors\Image-Line
+Fruity Delay 3.fst,Effects\Spatial\Delay;Effects\Vendors\Image-Line
+Fruity Delay Bank.fst,Effects\Spatial\Delay;Effects\Vendors\Image-Line
+Fruity Delay.fst,Effects\Spatial\Delay;Effects\Vendors\Image-Line
+Fruity DrumSynth Live.fst,Generators\Drums;Generators\Vendors\Image-Line
+Fruity DX10.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Fruity Envelope Controller.fst,Effects\Utilities\Controllers
+Fruity Fast Dist.fst,Effects\Distortion\Aggressive;Effects\Vendors\Image-Line
+Fruity Fast LP.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruity Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruity Flanger.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+Fruity Flangus.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+Fruity Formula Controller.fst,Effects\Utilities\Controllers
+Fruity Free Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruity Granulizer.fst,Generators\Samplers;Generators\Vendors\Image-Line
+Fruity HTML NoteBook.fst,Effects\Utilities\Tools
+Fruity Keyboard Controller.fst,Effects\Utilities\Controllers
+Fruity Limiter.fst,Effects\Dynamics\Limiters;Effects\Vendors\Image-Line
+Fruity Love Philter.fst,Effects\Filters\Creative;Effects\Vendors\Image-Line
+Fruity LSD.fst,Effects\Miscellaneous
+Fruity Multiband Compressor.fst,Effects\Dynamics\Compressors\Multi-Band;Effects\Vendors\Image-Line
+Fruity Mute 2.fst,Effects\Utilities\Tools
+Fruity NoteBook 2.fst,Effects\Utilities\Tools
+Fruity NoteBook.fst,Effects\Utilities\Tools
+Fruity PanOMatic.fst,Effects\Spatial\Panning;Effects\Utilities\Tools;Effects\Vendors\Image-Line
+Fruity Parametric EQ 2.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruity Parametric EQ.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+Fruity Peak Controller.fst,Effects\Utilities\Controllers
+Fruity Phase Inverter.fst,Effects\Spatial\Imaging and Stereo;Effects\Utilities\Tools
+Fruity Phaser.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+Fruity Reeverb 2.fst,Effects\Spatial\Reverb;Effects\Vendors\Image-Line
+Fruity Reeverb.fst,Effects\Spatial\Reverb;Effects\Vendors\Image-Line
+Fruity Scratcher.fst,Effects\Creative\Time and Glitch
+Fruity Send.fst,Effects\Utilities\Routing
+Fruity Slicer 2.fst,Generators\Samplers;Generators\Vendors\Image-Line
+Fruity Slicer.fst,Generators\Samplers;Generators\Vendors\Image-Line
+Fruity Soft Clipper.fst,Effects\Dynamics\Clippers;Effects\Vendors\Image-Line
+Fruity Spectroman.fst,Effects\Utilities\Analyzers
+Fruity Squeeze.fst,Effects\Distortion\Lo-Fi;Effects\Vendors\Image-Line
+Fruity Stereo Enhancer.fst,Effects\Spatial\Imaging and Stereo;Effects\Utilities\Tools;Effects\Vendors\Image-Line
+Fruity Stereo Shaper.fst,Effects\Spatial\Imaging and Stereo;Effects\Utilities\Tools;Effects\Vendors\Image-Line
+Fruity Video Player.fst,Generators\Miscellaneous
+Fruity Vocoder.fst,Effects\Vocal
+Fruity Voltage Controller.fst,Effects\Utilities\Controllers
+Fruity WaveShaper.fst,Effects\Distortion\Aggressive;Effects\Vendors\Image-Line
+Fruity Wrapper.fst,Effects\Miscellaneous
+Fruity X-Y Controller.fst,Effects\Utilities\Controllers
+Fruity X-Y-Z Controller.fst,Effects\Utilities\Controllers
+GMS.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Gross Beat.fst,Effects\Creative\Time and Glitch;Effects\Vendors\Image-Line
+HalfTime.fst,Effects\Creative\Time and Glitch
+Hardcore.fst,Effects\Distortion\Aggressive
+Harmless.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Harmor.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Hyper Chorus.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+JUPITER-8.fst,Generators\Synths\Analog;Generators\Vendors\Arturia
+Kepler Exo.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+Kepler.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+kHs 3-Band EQ.fst,Effects\EQ\Character;Effects\Vendors\Kilohearts
+kHs Bitcrush.fst,Effects\Distortion\Lo-Fi;Effects\Vendors\Kilohearts
+kHs Channel Mixer.fst,Effects\Utilities\Routing;Effects\Vendors\Kilohearts
+kHs Chorus.fst,Effects\Modulation\Classic;Effects\Vendors\Kilohearts
+kHs Clipper.fst,Effects\Dynamics\Clippers;Effects\Vendors\Kilohearts
+kHs Comb Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Kilohearts
+kHs Compactor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\Kilohearts
+kHs Compressor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\Kilohearts
+kHs Delay.fst,Effects\Spatial\Delay;Effects\Vendors\Kilohearts
+kHs Distortion.fst,Effects\Distortion\Aggressive;Effects\Vendors\Kilohearts
+kHs Dual Delay.fst,Effects\Spatial\Delay;Effects\Vendors\Kilohearts
+kHs Dynamics.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\Kilohearts
+kHs Ensemble.fst,Effects\Modulation\Classic;Effects\Vendors\Kilohearts
+kHs Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Kilohearts
+kHs Flanger.fst,Effects\Modulation\Classic;Effects\Vendors\Kilohearts
+kHs Formant Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Kilohearts
+kHs Frequency Shifter.fst,Effects\Modulation\Movement;Effects\Vendors\Kilohearts
+kHs Gain.fst,Effects\Utilities\Tools;Effects\Vendors\Kilohearts
+kHs Gate.fst,Effects\Dynamics\Gates;Effects\Vendors\Kilohearts
+kHs Haas.fst,Effects\Spatial\Reverb;Effects\Vendors\Kilohearts
+kHs Ladder Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Kilohearts
+kHs Limiter.fst,Effects\Dynamics\Limiters;Effects\Vendors\Kilohearts
+kHs Nonlinear Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Kilohearts
+kHs Phase Distortion.fst,Effects\Distortion\Aggressive;Effects\Vendors\Kilohearts
+kHs Phaser.fst,Effects\Modulation\Classic;Effects\Vendors\Kilohearts
+kHs Pitch Shifter.fst,Effects\Creative\General;Effects\Vendors\Kilohearts
+kHs Resonator.fst,Effects\Miscellaneous;Effects\Vendors\Kilohearts
+kHs Reverb.fst,Effects\Spatial\Reverb;Effects\Vendors\Kilohearts
+kHs Reverser.fst,Effects\Creative\Time and Glitch;Effects\Vendors\Kilohearts
+kHs Ring Mod.fst,Effects\Modulation\Movement;Effects\Vendors\Kilohearts
+kHs Shaper.fst,Effects\Distortion\Aggressive;Effects\Vendors\Kilohearts
+kHs Stereo.fst,Effects\Spatial\Imaging and Stereo;Effects\Utilities\Tools;Effects\Vendors\Kilohearts
+kHs Tape Stop.fst,Effects\Creative\Time and Glitch;Effects\Vendors\Kilohearts
+kHs Trance Gate.fst,Effects\Dynamics\Gates;Effects\Vendors\Kilohearts
+kHs Transient Shaper.fst,Effects\Dynamics\Transient Shapers;Effects\Vendors\Kilohearts
+LABS.fst,Generators\Samplers;Generators\Vendors\Spitfire Audio
+LoudMax 64bit.fst,Effects\Dynamics\Limiters
+Low Lifter.fst,Effects\EQ\Surgical;Effects\Vendors\Image-Line
+LuxeVerb.fst,Effects\Spatial\Reverb;Effects\Vendors\Image-Line
+Maximus.fst,Effects\Dynamics\Limiters;Effects\Vendors\Image-Line
+Micro.fst,Effects\Miscellaneous
+MIDI Out.fst,Effects\Utilities\Tools
+MiniSynth.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+Morphine.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Multiband Delay.fst,Effects\Spatial\Delay;Effects\Vendors\Image-Line
+Newtime.fst,Effects\Creative\General;Effects\Vendors\Image-Line
+Newtone.fst,Effects\Vocal;Effects\Vendors\Image-Line
+Ogun.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+One.fst,Generators\Miscellaneous
+Patcher.fst,Effects\Utilities\Routing
+Pitch Shifter.fst,Effects\Creative\General;Effects\Vendors\Image-Line
+Pitcher.fst,Effects\Vocal;Effects\Vendors\Image-Line
+Plucked!.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+PoiZone.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Pro-C 2.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\FabFilter
+Pro-DS.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\FabFilter
+Pro-G.fst,Effects\Dynamics\Gates;Effects\Vendors\FabFilter
+Pro-L 2.fst,Effects\Dynamics\Limiters;Effects\Vendors\FabFilter
+Pro-MB.fst,Effects\Dynamics\Compressors\Multi-Band;Effects\Vendors\FabFilter
+Pro-Q 4.fst,Effects\EQ\Surgical;Effects\Vendors\FabFilter
+Pro-R 2.fst,Effects\Spatial\Reverb;Effects\Vendors\FabFilter
+Razer Chroma.fst,Effects\Miscellaneous
+ReWired.fst,Generators\Miscellaneous
+Sakura.fst,Generators\Synths\Sample-Based;Generators\Vendors\Image-Line
+Saturn 2.fst,Effects\Distortion\Saturation;Effects\Vendors\FabFilter
+Sawer.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+Serum 2 FX.fst,Effects\Miscellaneous;Effects\Vendors\Xfer Records
+Serum 2.fst,Generators\Synths\Digital;Generators\Vendors\Xfer Records
+Simplon.fst,Effects\EQ\Surgical;Effects\Vendors\FabFilter
+SimSynth.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+Sky Blue EQ4.fst,Effects\EQ\Character
+Slicex.fst,Generators\Samplers;Generators\Vendors\Image-Line
+Soundfont Player.fst,Generators\Samplers;Generators\Vendors\Image-Line
+Soundgoodizer.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Mastering\Finishers;Effects\Vendors\Image-Line
+Spreader.fst,Effects\Spatial\Imaging and Stereo;Effects\Utilities\Tools;Effects\Vendors\Image-Line
+Sytrus.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Timeless 3.fst,Effects\Spatial\Delay;Effects\Vendors\FabFilter
+Toxic Biohazard.fst,Generators\Synths\Digital;Generators\Vendors\Image-Line
+Transient Processor.fst,Effects\Dynamics\Transient Shapers;Effects\Vendors\Image-Line
+Transistor Bass.fst,Generators\Synths\Analog;Generators\Vendors\Image-Line
+Transporter.fst,Effects\Miscellaneous
+Tuner.fst,Effects\Utilities\Analyzers;Effects\Vendors\Image-Line
+Twin 3.fst,Generators\Synths\Digital;Generators\Vendors\FabFilter
+ValhallaFreqEcho.fst,Effects\Spatial\Delay;Effects\Vendors\Valhalla
+ValhallaSpaceModulator.fst,Effects\Modulation\Classic;Effects\Vendors\Valhalla
+ValhallaSupermassive.fst,Effects\Spatial\Reverb;Effects\Vendors\Valhalla
+VFX Color Mapper.fst,Effects\Utilities\Controllers
+VFX Envelope.fst,Effects\Utilities\Controllers
+VFX Key Mapper.fst,Effects\Utilities\Controllers
+VFX Keyboard Splitter.fst,Effects\Utilities\Controllers
+VFX Level Scaler.fst,Effects\Utilities\Controllers
+VFX Script.fst,Effects\Utilities\Controllers
+VFX Sequencer.fst,Effects\Utilities\Controllers
+Vintage Chorus.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+Vintage Phaser.fst,Effects\Modulation\Classic;Effects\Vendors\Image-Line
+Vocodex.fst,Effects\Vocal;Effects\Vendors\Image-Line
+Volcano 3.fst,Effects\Filters\Creative;Effects\Vendors\FabFilter
+VoxengoRecorder.fst,Effects\Miscellaneous
+Wave Candy.fst,Effects\Mastering\Metering;Effects\Utilities\Analyzers;Effects\Vendors\Image-Line
+Wave Traveller.fst,Generators\Samplers;Generators\Vendors\Image-Line
+ZGameEditor Visualizer.fst,Effects\Miscellaneous
+ElectraX.fst,Generators\Synths\Digital;Generators\Vendors\Tone2
+Electra.fst,Generators\Synths\Digital;Generators\Vendors\Tone2
+Pro-C 3.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\FabFilter
+Autoformer.fst,Effects\Dynamics;Effects\Vendors\United Plugins
+Bassment Core.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+ChromaBox.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+Combustor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\United Plugins
+Comeback Kid.fst,Effects\Spatial\Delay;Effects\Vendors\Baby Audio
+Cryostasis.fst,Effects\Creative\General;Effects\Vendors\United Plugins
+Crystalline.fst,Effects\Spatial\Reverb;Effects\Vendors\Baby Audio
+Drum Replacer.fst,Effects\Utilities\Tools;Effects\Vendors\UVI
+Electrum Core.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+FirePresser.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\United Plugins
+Heat 2.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+KSHMR Essentials.fst,Effects\Creative\General;Effects\Mastering\Finishers;Effects\Vendors\W.A. Production
+MBassador.fst,Effects\EQ\Character;Effects\Vendors\MeldaProduction
+Mirror.fst,Effects\Creative\Time and Glitch;Effects\Vendors\United Plugins
+MMorph.fst,Effects\Creative\General;Effects\Vendors\MeldaProduction
+MRhythmizer.fst,Effects\Creative\Time and Glitch;Effects\Vendors\MeldaProduction
+MUnison.fst,Effects\Modulation\Classic;Effects\Vendors\MeldaProduction
+Neon Glow by Arcade.fst,Effects\Distortion\Aggressive;Effects\Vendors\Output
+Obsidian.fst,Generators\Synths\Digital;Generators\Vendors\UVI
+Opal.fst,Generators\Synths\Digital;Generators\Vendors\UVI
+Parallel Aggressor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\Baby Audio
+Phasor.fst,Effects\Modulation\Movement;Effects\Vendors\UVI
+Presser by Aiden Kenway.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\W.A. Production
+Puncher 2.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\W.A. Production
+Put Me On Drums by K-391.fst,Effects\Creative\General;Effects\Vendors\W.A. Production
+Relayer.fst,Effects\Spatial\Delay;Effects\Vendors\UVI
+Rift.fst,Effects\Distortion\Aggressive;Effects\Vendors\Minimal Audio
+Rotary.fst,Effects\Modulation\Movement;Effects\Vendors\UVI
+Shade.fst,Effects\EQ\Dynamic;Effects\Vendors\UVI
+SubBass Doctor 808.fst,Effects\EQ\Character;Effects\Vendors\United Plugins
+Super VHS.fst,Effects\Distortion\Lo-Fi;Effects\Vendors\Baby Audio
+TAIP.fst,Effects\Distortion\Saturation;Effects\Vendors\Baby Audio
+The King 2.fst,Effects\Dynamics\Compressors\Multi-Band;Effects\Vendors\W.A. Production
+Thorus.fst,Effects\Modulation\Classic;Effects\Vendors\UVI
+Transmutator.fst,Effects\Creative\General;Effects\Vendors\United Plugins
+TrapTune.fst,Effects\Vocal;Effects\Vendors\United Plugins
+Verbum.fst,Effects\Spatial\Reverb;Effects\Vendors\United Plugins
+Vocal Cleaner.fst,Effects\Utilities\Restoration;Effects\Vendors\United Plugins
+VoxDucker.fst,Effects\Dynamics;Effects\Vendors\United Plugins
+XTT by VINAI.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\W.A. Production
+Babylon.fst,Generators\Synths\Digital;Generators\Vendors\W.A. Production
+InstaChord 2.fst,Effects\Utilities\Tools;Generators\Vendors\W.A. Production
+InstaComposer 2.fst,Effects\Utilities\Tools;Generators\Vendors\W.A. Production
+InstaScale.fst,Effects\Utilities\Tools;Generators\Vendors\W.A. Production
+MSoundFactory.fst,Generators\Synths\Sample-Based;Generators\Vendors\MeldaProduction
+Sausage Fattener.fst,Effects\Distortion\Aggressive;Effects\Vendors\Dada Life
+BassmentCore.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+BassShaper.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+BeatQuake.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+Crystalline_2.fst,Effects\Spatial\Reverb;Effects\Vendors\Baby Audio
+DrumReplacer.fst,Effects\Utilities\Tools;Effects\Vendors\UVI
+Dual Delay X.fst,Effects\Spatial\Delay;Effects\Vendors\UVI
+DualDelayX.fst,Effects\Spatial\Delay;Effects\Vendors\UVI
+ElectrumCore.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+Hybrid Filter.fst,Effects\EQ\Surgical;Effects\Vendors\Minimal Audio
+KickShaper.fst,Effects\Distortion\Aggressive;Effects\Vendors\United Plugins
+KSHMR Reverb.fst,Effects\Spatial\Reverb;Effects\Vendors\W.A. Production
+Lofinity.fst,Effects\Distortion\Lo-Fi;Effects\Vendors\United Plugins
+MFlangerMB.fst,Effects\Modulation\Classic;Effects\Vendors\MeldaProduction
+MHarmonizerMB.fst,Effects\Pitch;Effects\Vendors\MeldaProduction
+MLimiterMB.fst,Effects\Dynamics\Limiters;Effects\Vendors\MeldaProduction
+Mixboss.fst,Effects\Dynamics;Effects\Vendors\United Plugins
+Morph EQ.fst,Effects\EQ\Dynamic;Effects\Vendors\Minimal Audio
+MPowerSynth.fst,Generators\Synths\Digital;Generators\Vendors\MeldaProduction
+MPhaserMB.fst,Effects\Modulation\Classic;Effects\Vendors\MeldaProduction
+MSoundFactory6out.fst,Generators\Synths\Sample-Based;Generators\Vendors\MeldaProduction
+MSpectralDelay.fst,Effects\Spatial\Delay;Effects\Vendors\MeldaProduction
+MTransformer.fst,Effects\Creative\General;Effects\Vendors\MeldaProduction
+MTremoloMB.fst,Effects\Modulation\Movement;Effects\Vendors\MeldaProduction
+MTurboComp.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\MeldaProduction
+MTurboCompMB.fst,Effects\Dynamics\Compressors\Multi-Band;Effects\Vendors\MeldaProduction
+MTurboDelay.fst,Effects\Spatial\Delay;Effects\Vendors\MeldaProduction
+MTurboDelayMB.fst,Effects\Spatial\Delay;Effects\Vendors\MeldaProduction
+MVibratoMB.fst,Effects\Modulation\Movement;Effects\Vendors\MeldaProduction
+NeonGlow.fst,Effects\Distortion\Aggressive;Effects\Vendors\Output
+Ozone 12 Bass Control.fst,Effects\EQ\Surgical;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Clarity.fst,Effects\EQ\Dynamic;Effects\Mastering\Finishers;Effects\Mastering\Spectral Control;Effects\Vendors\iZotope
+Ozone 12 Dynamic EQ.fst,Effects\EQ\Dynamic;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Dynamics.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Equalizer.fst,Effects\EQ\Surgical;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Exciter.fst,Effects\Distortion\Saturation;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Imager.fst,Effects\Mastering\Finishers;Effects\Spatial;Effects\Spatial\Imaging and Stereo;Effects\Vendors\iZotope
+Ozone 12 Impact.fst,Effects\Dynamics;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Low End Focus.fst,Effects\EQ\Surgical;Effects\Mastering\Finishers;Effects\Mastering\Spectral Control;Effects\Vendors\iZotope
+Ozone 12 Master Rebalance.fst,Effects\Mastering\Finishers;Effects\Mastering\Spectral Control;Effects\Utilities\Tools;Effects\Vendors\iZotope
+Ozone 12 Match EQ.fst,Effects\EQ\Surgical;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Maximizer.fst,Effects\Dynamics\Limiters;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Spectral Shaper.fst,Effects\Distortion\Aggressive;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Stabilizer.fst,Effects\EQ\Dynamic;Effects\Mastering\Finishers;Effects\Mastering\Spectral Control;Effects\Vendors\iZotope
+Ozone 12 Stem EQ.fst,Effects\EQ\Surgical;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Unlimiter.fst,Effects\Dynamics;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Vintage Compressor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Vintage EQ.fst,Effects\EQ\Character;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Vintage Limiter.fst,Effects\Dynamics\Limiters;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12 Vintage Tape.fst,Effects\Distortion\Saturation;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Ozone 12.fst,Effects\Dynamics;Effects\Mastering\Finishers;Effects\Vendors\iZotope
+Presser.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\W.A. Production
+PutMeOnDrums.fst,Effects\Creative\General;Effects\Vendors\W.A. Production
+QuickMuse.fst,Effects\Creative\General;Effects\Vendors\United Plugins
+Rift Filter Lite.fst,Effects\EQ\Surgical;Effects\Vendors\Minimal Audio
+SubbassDoctor808.fst,Effects\EQ\Surgical;Effects\Vendors\United Plugins
+UVIWorkstation.fst,Generators\Samplers;Generators\Vendors\UVI
+ValhallaVintageVerb.fst,Effects\Spatial\Reverb;Effects\Vendors\Valhalla
+VINAI XTT.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\W.A. Production
+Vocal Compressor.fst,Effects\Dynamics\Compressors\Single-Band;Effects\Vendors\United Plugins
+"Carve EQ.fst","Effects\EQ\Surgical;Effects\Vendors\Kilohearts"
+"Disperser.fst","Effects\Distortion\Aggressive;Effects\Vendors\Kilohearts"
+"Faturator.fst","Effects\Distortion\Saturation;Effects\Vendors\Kilohearts"
+"kHs Convolver.fst","Effects\Spatial\Reverb;Effects\Vendors\Kilohearts"
+"kHs Filter Table.fst","Effects\Filters\Creative;Effects\Vendors\Kilohearts"
+"kHs Shaper Table.fst","Effects\Distortion\Aggressive;Effects\Vendors\Kilohearts"
+"Multipass.fst","Effects\Utilities\Routing;Effects\Vendors\Kilohearts"
+"Slice EQ.fst","Effects\EQ\Surgical;Effects\Vendors\Kilohearts"
+"Snap Heap.fst","Effects\Utilities\Routing;Effects\Vendors\Kilohearts"
+"Airwindows Consolidated.fst","Airwindows;Effects\Miscellaneous"
+"Phase Plant.fst","Generators\Synths\Digital;Generators\Vendors\Kilohearts"
