@@ -67,12 +67,8 @@ Run the `Organize-PluginDatabase.ps1` script. Provide the path to your edited ma
 ### Improving the Ruleset
 The guessing logic is defined in the `Get-GuessedPath` function inside `Generate-PluginCSV.ps1`. 
 
-* **Adding Vendors:** To add a new manufacturer, locate the `$vendors` hashtable and add a regex pattern paired with the Vendor name.
-    ```powershell
-    "fabfilter|pro-q|saturn" = "FabFilter"
-    "newvendor|vstname"      = "New Vendor Name"
-    ```
 * **Refining Categories:** If certain plugins are being misidentified, you can adjust the `-match` patterns in the **Functional Logic** blocks. We use standard Regex; for example, `comp|limit|gate` captures any plugin with those strings in the name.
+* Defining regexes in a differnt file rather than in the ps1 is also a good idea as some reddit user pointed out. 
 
 
 ### Choosing Your Own Structure
